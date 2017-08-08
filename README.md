@@ -2,7 +2,7 @@
 > A curated list of awesome open-source applications made with javascript language.
 
 ## Typescript
-* [D3js](https://github.com/DefinitelyTyped/DefinitelyTyped) ([website](http://definitelytyped.org/)) - The repository for high quality TypeScript type definitions.
+* [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) ([website](http://definitelytyped.org/)) - The repository for high quality TypeScript type definitions.
 
 ## Dasboard + Plugins
 **Plugins**
