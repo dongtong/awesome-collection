@@ -8,7 +8,8 @@
 **Another collection**
 * https://github.com/obazoud/awesome-dashboard
 * https://github.com/omarkdev/awesome-dashboards
-* https://www.sitepoint.com/15-best-javascript-charting-libraries/ 
+* https://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/#.tnw_xs9lm7Gj
+* https://www.slant.co/topics/3890/~javascript-charting-libraries
 
 **Plugins**
 * [D3js](https://github.com/d3/d3) ([website](https://d3js.org/)) - A JavaScript library for manipulating documents based on data.
