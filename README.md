@@ -1,4 +1,4 @@
-# Survey javascript projects
+# Survey Projects
 > A curated list of awesome open-source applications made with javascript language.
 
 ## Another collection
