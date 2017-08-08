@@ -1,5 +1,5 @@
-# Survey Projects
-> A curated list of awesome open-source applications made with javascript language.
+# Open-source Survey
+> A curated list of awesome open-source projects.
 
 ## Another collection
 * https://github.com/obazoud/awesome-dashboard
