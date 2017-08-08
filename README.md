@@ -1,6 +1,9 @@
 # Survey javascript projects
 > A curated list of awesome open-source applications made with javascript language.
 
+## Typescript
+* [D3js](https://github.com/DefinitelyTyped/DefinitelyTyped) ([website](http://definitelytyped.org/)) - The repository for high quality TypeScript type definitions.
+
 ## Dasboard + Plugins
 **Plugins**
 * [D3js](https://github.com/d3/d3) ([website](https://d3js.org/)) - A JavaScript library for manipulating documents based on data.
@@ -20,6 +23,5 @@
 **Meteor apps** ([website](https://www.meteor.com/))
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) ([website](https://reactioncommerce.com/)) - A modern reactive, real-time event driven ecommerce platform.
 
-
 ## Q&A
-* [Discourse](https://github.com/discourse/discourse) ([website](https://www.discourse.org/)) - A platform for community discussion.
+> * [Discourse](https://github.com/discourse/discourse) ([website](https://www.discourse.org/)) - A platform for community discussion.
