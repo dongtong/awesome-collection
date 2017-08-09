@@ -3,10 +3,6 @@
 
 ## Other collections
 * https://github.com/postlight/awesome-cms
-* https://github.com/obazoud/awesome-dashboard
-* https://github.com/omarkdev/awesome-dashboards
-* https://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/#.tnw_xs9lm7Gj
-* https://www.slant.co/topics/3890/~javascript-charting-libraries
 
 ## Typescript
 * [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) ([website](http://definitelytyped.org/)) - The repository for high quality TypeScript type definitions.
@@ -14,6 +10,10 @@
 ## Dasboard + Plugins
 **Other collections**
 * https://www.webdesignerdepot.com/2009/06/50-great-examples-of-data-visualization/ 
+* https://github.com/obazoud/awesome-dashboard
+* https://github.com/omarkdev/awesome-dashboards
+* https://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/#.tnw_xs9lm7Gj
+* https://www.slant.co/topics/3890/~javascript-charting-libraries
 
 **Plugins**
 * [D3js](https://github.com/d3/d3) ([website](https://d3js.org/)) - A JavaScript library for manipulating documents based on data.
