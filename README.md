@@ -2,11 +2,11 @@
 > A curated list of awesome open-source projects.
 
 ## Other collections
+* https://github.com/postlight/awesome-cms
 * https://github.com/obazoud/awesome-dashboard
 * https://github.com/omarkdev/awesome-dashboards
 * https://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/#.tnw_xs9lm7Gj
 * https://www.slant.co/topics/3890/~javascript-charting-libraries
-* https://github.com/postlight/awesome-cms
 
 ## Typescript
 * [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) ([website](http://definitelytyped.org/)) - The repository for high quality TypeScript type definitions.
