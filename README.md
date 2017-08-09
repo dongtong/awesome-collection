@@ -1,7 +1,7 @@
 # Open-source Survey
 > A curated list of awesome open-source projects.
 
-## Another collection
+## Other collections
 * https://github.com/obazoud/awesome-dashboard
 * https://github.com/omarkdev/awesome-dashboards
 * https://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries/#.tnw_xs9lm7Gj
@@ -12,6 +12,8 @@
 * [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) ([website](http://definitelytyped.org/)) - The repository for high quality TypeScript type definitions.
 
 ## Dasboard + Plugins
+**Other collections**
+* https://www.webdesignerdepot.com/2009/06/50-great-examples-of-data-visualization/ 
 
 **Plugins**
 * [D3js](https://github.com/d3/d3) ([website](https://d3js.org/)) - A JavaScript library for manipulating documents based on data.
