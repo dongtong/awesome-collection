@@ -32,6 +32,8 @@
 > * [Home-Assistant](https://github.com/home-assistant/home-assistant) ([website](https://home-assistant.io)) - Open-source home automation platform running on Python 3.
 > * [JARVIS](https://github.com/mpolden/jarvis2) ([website]()) - Awesome dashboard built with Flask and Mithril.
 > * [Dashing](https://github.com/evolvedlight/pydashie) ([website]())- A handsome dashboard framework in Ruby and Coffeescript.
+> * [Superset](https://github.com/apache/incubator-superset)
+> * [Pyxley](https://github.com/stitchfix/pyxley)
 
 ## eCommerce
 * [Totaljs](https://github.com/totaljs/framework) ([website](https://www.totaljs.com/)) - A full-featured server-side framework
