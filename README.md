@@ -7,7 +7,7 @@
 ## Typescript
 * [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) ([website](http://definitelytyped.org/)) - The repository for high quality TypeScript type definitions.
 
-## Dasboard + Plugins
+## Dasboard + Plugin
 **Other collections**
 * https://www.webdesignerdepot.com/2009/06/50-great-examples-of-data-visualization/ 
 * https://github.com/obazoud/awesome-dashboard
