@@ -24,9 +24,11 @@
 * [Node-RED](https://github.com/node-red/node-red) ([website](https://nodered.org/)) - A visual tool for wiring the Internet of Things.
 * [Dashing](https://github.com/Smashing/smashing) ([website]())- A handsome dashboard framework in Ruby and Coffeescript.
 * [Freeboard](https://github.com/Freeboard/freeboard) ([website](https://freeboard.io/)) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups.
-* [Thingsboard](https://github.com/thingsboard/thingsboard/) ([website](https://thingsboard.io/)) - A an open-source IoT platform for data collection, processing, visualization, and device management.
 * [Mozaik](https://github.com/plouc/mozaik) ([website](http://mozaik.rocks)) - A tool based on nodejs / react / d3 to easily craft beautiful dashboards.
 * [Kibana](https://github.com/elastic/kibana) ([website](https://www.elastic.co/products/kibana))- Kibana analytics and search dashboard for Elasticsearch. 
+
+**Using Java**
+* [Thingsboard](https://github.com/thingsboard/thingsboard/) ([website](https://thingsboard.io/)) - A an open-source IoT platform for data collection, processing, visualization, and device management.
 
 **Using Python**
 > * [Home-Assistant](https://github.com/home-assistant/home-assistant) ([website](https://home-assistant.io)) - Open-source home automation platform running on Python 3.
@@ -38,7 +40,7 @@
 **Using Go**
 > * [Grafana](https://github.com/grafana/grafana) ([website](https://grafana.com/))- The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More. 
 > * [Telegraf](https://github.com/influxdata/telegraf) ([website]()) - The plugin-driven server agent for collecting & reporting metrics.
-> * [Chronograf](https://github.com/influxdata/chronograf) ([website]()) - an open-source web application written in Go and React.js that provides the tools to visualize your monitoring data and easily create alerting and automation rules.
+> * [Chronograf](https://github.com/influxdata/chronograf) ([website]()) - an open-source web application written in Go and React.js that provides the tools to visualize your monitoring data and easily create alerting and automation rules. Open source monitoring and visualization UI for the TICK stack. 
 
 ## eCommerce
 * [Totaljs](https://github.com/totaljs/framework) ([website](https://www.totaljs.com/)) - A full-featured server-side framework
