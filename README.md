@@ -39,8 +39,7 @@
 
 **Using Go**
 > * [Grafana](https://github.com/grafana/grafana) ([website](https://grafana.com/))- The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More. 
-> * [Telegraf](https://github.com/influxdata/telegraf) ([website]()) - The plugin-driven server agent for collecting & reporting metrics.
-> * [Chronograf](https://github.com/influxdata/chronograf) ([website]()) - an open-source web application written in Go and React.js that provides the tools to visualize your monitoring data and easily create alerting and automation rules. Open source monitoring and visualization UI for the TICK stack. 
+> * [Chronograf](https://github.com/influxdata/chronograf) ([website](https://docs.influxdata.com/chronograf/v1.3/introduction/getting-started/)) - an open-source web application written in Go and React.js that provides the tools to visualize your monitoring data and easily create alerting and automation rules. Open source monitoring and visualization UI for the TICK stack. 
 
 ## eCommerce
 * [Totaljs](https://github.com/totaljs/framework) ([website](https://www.totaljs.com/)) - A full-featured server-side framework
